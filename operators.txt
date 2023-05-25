@@ -1,0 +1,37 @@
+1.Arithmetic
+2.Assignment
+3.Relational
+4.Logical
+5.Terinary
+6.Comparision
+7.Increment & Decrement
+8.Compound Assignment
+    combining the arithmetic and assignment operators
+
+    relational < <= > >= == !=
+
+    logical  && || !
+
+conditional statements
+    if
+        if(condition's value based result){
+            statements
+            statements
+        }
+    else
+    else if
+    switch
+
+whos age is less than 5 free entry
+whose age is greater than or equal to 5 and less than 18 pay 10 rupees
+whose age is greater than or equal to 18 and less than 30 pay 20 rupees
+whose age is greater than 30 pay 15 rupees
+
+BOM  browser object model
+
+loops concept:-
+ loops are: while,do while,for
+ for of ,for in, foreach, map, filter, reduce, 
+ loops are 3 steps: initialiazation, condition, iteration.
+
+     
